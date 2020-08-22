@@ -1,0 +1,334 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: arial;
+}
+
+div.main{
+    height: 680px;
+    
+    background-image: url("background.jpg");
+    background-size: cover;
+background-repeat: no-repeat;
+    
+}
+div.navbar{
+    display: flex;
+   
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.6);
+   
+    
+}
+div.navbar a{
+    
+    color: white;
+   margin: -15px;
+    
+    
+}
+a.oo{
+    
+    color:white;
+    border: 2px solid white;
+    background-color: transparent;
+    padding: 12px;
+    border-radius: 8px:
+    
+}
+div.details{
+    justify-content: center;
+    padding-top: 150px;
+    color: white;
+    text-align:center; 
+
+}
+
+div.details button{
+    
+    
+    
+     color:white;
+    border: 2px solid white;
+    background-color:white;
+    color:aqua;
+    border-radius: 10px;
+    padding:12px
+      
+    
+}
+  
+    
+    
+div.games{
+    justify-content: center;
+    text-align: center;
+    background-color: rebeccapurple;
+    
+    padding: 10px;
+    
+
+}
+h3{
+    display: inline-block;
+    margin: 50px;
+    color: white;
+    padding-top: -30px;
+    
+    font-size: 20px;
+}
+h1{ color:white;
+    padding-bottom: 60px;
+}
+img.y{
+    margin:30px;
+border-radius: 100px;
+    height: 100px;
+   width: 100px;
+  
+        }
+div.mg{
+    display: flex;
+    background-color: black;
+    
+    margin: 100px;
+    padding: 30px;
+    border-radius: 30px;
+    align-items: center;
+    justify-content: center;
+}
+div.w{
+    text-align: left;
+    line-height: 30px;
+    color: white;
+}
+div.i img{
+    margin-left: 150px;
+    border-radius: 30px;
+}
+div.w button{    color:aqua;
+
+    background-color:white;
+    color:aqua;
+    border-radius: 10px;
+    padding:12px
+}
+div.mk{
+    
+    
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div.post{
+    
+    background-color: black;
+    color: white;
+    margin: 30px;
+    border-radius: 8px;
+   
+   
+
+}
+ div.img{
+   background-image: url("batman.jpg");
+ height: 200px;
+     background-size: cover;
+     background-position: center;
+     border-radius: 8px;
+    
+    
+    
+    
+}
+div.post p ,h5{ padding-right: 20px;
+     padding-left: 20px;
+
+}
+div.post h5{
+    display: inline-block;
+}
+
+h1.i{
+    color: white;
+    text-align: left;
+}
+    
+div.post2  div.img{
+    background-image: url("pubg.jpg");
+}
+div.post3 div.img{
+    
+    background-image: url("spiderman.jpg");
+}
+  
+    
+    
+div.aw h1{
+    color: black;
+    text-align: center;
+}
+div.aw{
+    display: flex;
+  text-align: center;
+justify-content: center;
+    align-items: center;
+}
+div.ae{
+    background-color: black;
+    color: white;
+    margin: 30px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+div.imgi{
+
+  background-color: white;
+    height: 100px;
+    width: 100px;
+  margin: auto;
+    border-radius: 100px;
+    margin-top: -50px;
+    border: 2px solid black;
+}
+
+div.as div.imgi{
+    background-image: url("man.png");
+    background-size: cover;
+    background-position: center;
+    }
+
+
+div.aq div.imgi{
+    background-image: url("woman.png");
+    background-size: cover;
+    background-position: center;
+    }
+
+div.aa h1{
+    color: black;
+    text-align: center;
+}
+
+
+div.f h1{
+    color: black;
+    text-align: center;
+}
+
+div.forms{ 
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+    
+}
+div.form{
+    background-color: black;
+    color: white;
+    margin: 20px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.aaa{
+    background-color: aquamarine;
+    color: black;
+    padding: 15px;
+}
+
+.form button{
+     background-color:white;
+    color:aqua;
+    border-radius: 10px;
+    padding:12px
+}
+
+.ofter{
+    background-color: purple;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+.vvv{
+    
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    margin: auto;
+    border: 2px solid black;
+   margin-top: 40px;
+ border-radius: 8px;
+        
+   
+    }
+
+, .vvv forme{
+    
+    width: 40%;
+    
+    
+    
+}
+
+.imgo{
+    
+    
+    background-image: url("i.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+width:60%; 
+    padding-right: 0px;
+    padding-left: 0px;
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+form input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid aqua;
+        border-radius: 10px;
+    display: block;
+
+  
+    margin: 30px;
+}
+form button{ padding: 10px;
+    font-size: 16px;
+    border: 1px solid aqua;
+        border-radius: 10px;
+    display: block;
+
+  
+    margin: 30px;}
+
+forme{
+    width: 40%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    padding-top: 300px;
+}
+
+div.forme button{
+     background-color:black;
+    color:white;
+    border-radius: 10px;
+    padding:12px
+}
+
+
+form{
+    margin-left: 30px;
+}
+
+div.q{
+    background-color: black;
+}
